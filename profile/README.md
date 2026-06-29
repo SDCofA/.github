@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Strategic Data Company of Ankara" width="170"/>
+  <img src="https://raw.githubusercontent.com/SDCofA/.github/main/profile/logo.png" alt="Strategic Data Company of Ankara" width="420"/>
   <!-- CODEX: the institutional SEAL — engraved navy + antique-gold, Trajan titling, Dept-of-War / CFR / Library-of-Congress style. Full spec: SDCofA-BRAND.md -->
 
 # STRATEGIC DATA COMPANY OF ANKARA
