@@ -1,35 +1,39 @@
 <div align="center">
-  <img src="logo.png" alt="Strategic Data Company of Ankara" width="160"/>
-  <!-- CODEX: generate the Strategic Data Company of Ankara logo here (logo.png) -->
+  <img src="logo.png" alt="Strategic Data Company of Ankara" width="170"/>
+  <!-- CODEX: the institutional SEAL — engraved navy + antique-gold, Trajan titling, Dept-of-War / CFR / Library-of-Congress style. Full spec: SDCofA-BRAND.md -->
 
-# 🛰️ Strategic Data Company of Ankara
+# STRATEGIC DATA COMPANY OF ANKARA
 
-**Threat-intelligence indices for a contested world.**
+**An intelligence house of indices for a contested world.**
 
-An operating company of **[🏰 Monarch Castle Holdings](https://github.com/MonarchCastleHoldings)**.
+*An operating company of [Monarch Castle Holdings](https://github.com/MonarchCastleHoldings).*
 
-![indices](https://img.shields.io/badge/indices-3-1f6feb)
-![coverage](https://img.shields.io/badge/coverage-195%20countries%20%26%2013%20blocs-brightgreen)
-![Ankara](https://img.shields.io/badge/Ankara-T%C3%BCrkiye-c8102e)
+![Ankara · Türkiye](https://img.shields.io/badge/Ankara-T%C3%BCrkiye-0b1f3a)
+![est. MMXXVI](https://img.shields.io/badge/est.-MMXXVI-b0894f)
+![open-source assessment](https://img.shields.io/badge/open--source-assessment-6e1f2b)
 
 </div>
 
 ---
 
-## 🗺️ The indices
+## The Indices
 
 | Index | Coverage | Repository |
 |---|---|---|
-| **BNTI** — Border-Neighbor Threat Index | Türkiye's border neighbors | [border-neighbor-threat-index](https://github.com/SDCofA/border-neighbor-threat-index) |
+| **BNTI** — Border-Neighbor Threat Index | Türkiye's bordering states | [border-neighbor-threat-index](https://github.com/SDCofA/border-neighbor-threat-index) |
 | **WTI** — World Threat Index | 195 countries · 13 blocs | [world-threat-index](https://github.com/SDCofA/world-threat-index) |
-| **MENA** — MENA Threat Index | Middle East & North Africa | [mena-threat-index](https://github.com/SDCofA/mena-threat-index) |
+| **MENA** — MENA Threat Index | the Middle East & North Africa | [mena-threat-index](https://github.com/SDCofA/mena-threat-index) |
 
----
+## Method
 
-## 📐 Method
+The Company publishes **open-source threat assessments** as standing indices. Every reading is traceable to its open source and its hour of collection, and is refreshed automatically by scheduled intelligence pipelines. We assert nothing we cannot attribute — *evidence before assertion*.
 
-Evidence-first: every index value is traceable to its **open source** and **collection timestamp**, refreshed automatically by scheduled intelligence pipelines. No un-provenanced numbers — ever.
+## Standards
 
-> Sister company: [⚙️ Monarch Castle Technologies](https://github.com/monarchcastletech)
+- **Open sources only**, lawfully obtained.
+- **Full provenance** — source, collection time, and method recorded for every datum.
+- **Reproducibility** — every assessment regenerates from a clean checkout.
 
-<div align="center"><sub>🛰️ Strategic Data Company of Ankara · a Monarch Castle Holdings company</sub></div>
+> A constituent house of the Monarch Castle group. Sister company: [Monarch Castle Technologies](https://github.com/monarchcastletech).
+
+<div align="center"><sub>STRATEGIC DATA COMPANY OF ANKARA · ANKARA · TÜRKİYE · MMXXVI</sub></div>
